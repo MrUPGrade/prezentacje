@@ -1,0 +1,6 @@
+{
+  "asserts/test_dicts.py::test_dicts": true,
+  "asserts/test_sets.py::test_sets": true,
+  "comparing/simple_fail/test_pt.py::test_hello_fail": true,
+  "comparing/simple_fail/test_ut.py::TestHelloWorld::test_hello_fail": true
+}
