@@ -1,4 +1,0 @@
-{
-  "test_pt.py::test_hello_fail": true,
-  "test_ut.py::TestHelloWorld::test_hello_fail": true
-}
