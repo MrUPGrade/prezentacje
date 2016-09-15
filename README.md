@@ -1,6 +1,10 @@
 # prezentacje
 
 
+## pygda16
+
+The Twelve-Factor App i Python
+
 ## pygda14
 
 Pytest - alternatywa czy niezbędne narzędzie?
