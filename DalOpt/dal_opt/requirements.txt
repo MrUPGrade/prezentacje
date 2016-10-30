@@ -1,0 +1,6 @@
+sqlalchemy
+pg8000
+dictalchemy
+faker
+cherrypy
+
