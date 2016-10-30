@@ -4,6 +4,10 @@
 
 Data Access Layer Optimisation
 
+## pygda18
+
+Import collections - czyli kiedy potrzebujemy czegoś więcej niż dict, list czy set.
+
 ## pygda16
 
 The Twelve-Factor App i Python
